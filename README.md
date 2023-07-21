@@ -1,0 +1,2 @@
+# amazonproject
+clone amazon website
